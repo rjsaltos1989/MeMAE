@@ -1,6 +1,14 @@
 MIT License
 
-Copyright (c) 2025 Ramiro Saltos
+Copyright (c) 2025 Ramiro Saltos Atiencia
+
+This is a simplified PyTorch implementation based on the original work by Gong et al. (2019):
+Dong Gong, Lingqiao Liu, Vuong Le, Budhaditya Saha, Moussa Reda Mansour, Svetha Venkatesh, Anton van den Hengel.
+Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection.
+arXiv preprint arXiv:1904.02639, 2019.
+
+The memory module was adapted from:
+MeMAE GitHub repository: https://github.com/donggong1/memae-anomaly-detection
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
